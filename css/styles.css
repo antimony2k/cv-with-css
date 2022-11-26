@@ -56,6 +56,11 @@ p {
   width: 50%;
 }
 
+.certificate-row {
+  margin: 20px auto;
+  width: 50%;
+}
+
 .guitar-img {
   width: 25%;
   float: left;
